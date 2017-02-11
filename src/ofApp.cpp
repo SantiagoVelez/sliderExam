@@ -3,6 +3,8 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     
+    //Version 2 despues de GUITHUB
+    
     ofEnableSmoothing();
     ofSetCircleResolution(60);
     
